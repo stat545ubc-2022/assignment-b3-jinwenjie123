@@ -1,10 +1,10 @@
-#STAT545B: Assignment B3 - BC Liquor Store Shiny App
+#STAT545B: Assignment B3 - BC Liquor Store Shiny App#
 
 This is the repository for Assignment B3 - Option A: Adding Features to the BC Liquor App Link to the app - 
 
-##New Features 
+##New Features##
 
-**Feature1: ** Added logo to the UI. This feature improves the overall aesthetic of the app and makes this app more attractive. 
+**Feature1:** Added logo to the UI. This feature improves the overall aesthetic of the app and makes this app more attractive. 
 
 
 **Feature2:** Added the feature that allows user to decide whether the output data will sorted by price.
