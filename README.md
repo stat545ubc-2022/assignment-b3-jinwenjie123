@@ -1,6 +1,6 @@
 # STAT545B: Assignment B3 - BC Liquor Store Shiny App
 
-This is the repository for Assignment B3 - Option A: Adding Features to the BC Liquor App Link to the app - 
+This is the repository for Assignment B3 - Option A: Adding Features to the BC Liquor App Link to the app - https://wenjiejin.shinyapps.io/bc_liquor/
 
 ## New Features
 
