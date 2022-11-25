@@ -14,4 +14,8 @@ This is the repository for Assignment B3 - Option A: Adding Features to the BC L
 
 
 **Feature4:** Interactive table provides searching, paging and sorting abilities for users to further explore the results.
+
+# Acknowledgement
+
+This app is based on the BC Liquor App by Dean Attali. The link to the full dataset can be found in the app itself and https://github.com/daattali/shiny-server/blob/master/bcl/data/bcl-data.csv here. It was retrieved from OpenDataBC.
  
